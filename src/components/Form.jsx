@@ -15,7 +15,7 @@ const Form = () => {
                 </div>
                 <div className="flex flex-col gap-3">
                     <h1 className=''>Business Email</h1>
-                    <input type="email" required placeholder='example@elevenlabs.io' className='outline-1 outline-10W focus:outline-10B rounded-xl p-3 px-4'/>
+                    <input type="email" placeholder='example@elevenlabs.io' className='outline-1 outline-10W focus:outline-10B rounded-xl p-3 px-4'/>
                 </div>
             </div>
             <div className="flex justify-between items-center py-6">
