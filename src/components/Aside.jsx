@@ -1,8 +1,4 @@
 import React from 'react'
-import { LuRocket } from "react-icons/lu";
-import { GoShieldCheck } from "react-icons/go";
-import { RiBuildingLine } from "react-icons/ri";
-import { SiCisco } from "react-icons/si";
 import { FaStar } from "react-icons/fa6";
 
 const Aside = () => {
@@ -40,7 +36,7 @@ const Aside = () => {
                     </div>
                 </div>
             </div>
-            <div className="flex flex-col">
+            <div className="bg-60B flex flex-col">
                 <div className="flex flex-col justify-between px-14">
                     <h1 className='text-30W text-sm'>Trusted by 10,000+ leading businesses</h1>
                     <div className="grid items-center grid-cols-5 gap-x-10 gap-y-10 py-14">
